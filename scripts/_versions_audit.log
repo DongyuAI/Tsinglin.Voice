@@ -1,0 +1,16 @@
+ok             ServeurpersoCom/qwentts.cpp                br=master     sha=2edb35f87b70
+ok             0xShug0/audio.cpp                          br=main       sha=a6e32214e762
+ok             L9Tigrotto/ilaria-s2.cpp                   br=main       sha=53ee74209368
+ok             alexturkey/voxcpm2-turkce-ses-tasarimi     br=main       sha=331d7bcf8901
+ok             bluryar/VoxCPM.cpp                         br=main       sha=e5b89534e379
+ok             LostRuins/koboldcpp                        br=concedo    sha=6d2fedf8624e
+ok             CrispStrobe/CrispASR                       br=main       sha=bae18989da57
+ok             madsteph74/pascallama.cpp                  br=main       sha=e6a28bcba735
+ok             ArtyomITA/minicpm5-kernel-pascal           br=main       sha=2b97bf8c4b64
+ok             PrismML-Eng/llama.cpp                      br=prism      sha=3f035ba664f8
+ok             ArtyomITA/bonsai2-ternary-pascal           br=master     sha=e78b720f2c31
+ok             ikawrakow/ik_llama.cpp                     br=main       sha=464613d7c12f
+ok             ggml-org/whisper.cpp                       br=master     sha=8302b819fc30
+ok             k2-fsa/sherpa-onnx                         br=master     sha=aa273e8029af
+ok             ServeurpersoCom/ggml                       br=master     sha=ef4555b7aede
+DONE -> 仓库版本清单.md / _versions.json
